@@ -1,5 +1,3 @@
-![Logo UABCS.]( "Logo UABCS.")
-
 # *Repositorio Web*
 
 ## Descripcion
