@@ -2,11 +2,11 @@
 
 ## Descripcion
 
-#### Agregar descripcion del repositorio (una introduccion general)
+#### Respositorio general de registros dirigido a la materia de Desarrollo Web.
 
-### Temas de retroalimentacion
+### Ejercicios
 
-* Tema 1
+* [01: Formato texto](/01_formato_texto/index.html)
 
 * Tema 2
 
