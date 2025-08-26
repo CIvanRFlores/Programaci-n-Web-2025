@@ -4,22 +4,20 @@
 
 #### Respositorio general de registros dirigido a la materia de Desarrollo Web.
 
-### Ejercicios
+### Clases
 
 * [01: Formato texto](/01_formato_texto/index.html)
 
-* Tema 2
+* [02: Divs enlaces](/02_divs_enlaces/index.html)
 
 * Tema 2
 
-## Contenidos
+## Ejercicios
 
-1. Nombre contenido 1
-    * Descripcion de contenido
-2. Nombre contenido 2
-    * Descripcion de contenido
-3. Nombre contenido 3
-    * Descripcion de contenido
+1. [Pagina web con elementos basicos](/Ejercicio_01/index.html)
+    * Creacion de una pagina HTML sobre un tema de seleccion empleando elementos basicos
+2. Nombre de ejercicio
+    * Descripcion de ejercicio
 
 ## Datos del propietario
 
@@ -27,4 +25,4 @@
 |------------------------------|:-:|:-:|:--------------:|
 |Christian Ivan Rivera Flores|IDS|5to|Programacion Web|
 
-### Para mas informacion Ingresa a la pagina del [DASC](https://www.uabcs.mx/dasc/)
+## [Pagina principal](https://www.uabcs.mx/dasc/) de GitHub
