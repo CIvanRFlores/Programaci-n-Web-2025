@@ -25,4 +25,4 @@
 |------------------------------|:-:|:-:|:--------------:|
 |Christian Ivan Rivera Flores|IDS|5to|Programacion Web|
 
-### [Pagina principal](https://www.uabcs.mx/dasc/){:target="_blank"} de GitHub
+### [Pagina principal](https://www.uabcs.mx/dasc/) de GitHub
