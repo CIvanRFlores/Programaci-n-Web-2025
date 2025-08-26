@@ -12,17 +12,17 @@
 
 * Tema 2
 
-## Ejercicios
+### Ejercicios
 
 1. [Pagina web con elementos basicos](/Ejercicio_01/index.html)
     * Creacion de una pagina HTML sobre un tema de seleccion empleando elementos basicos
 2. Nombre de ejercicio
     * Descripcion de ejercicio
 
-## Datos del propietario
+### Datos del propietario
 
 |Alumno|Carrera|Semestre|Materia|
 |------------------------------|:-:|:-:|:--------------:|
 |Christian Ivan Rivera Flores|IDS|5to|Programacion Web|
 
-## [Pagina principal](https://www.uabcs.mx/dasc/) de GitHub
+### [Pagina principal](https://www.uabcs.mx/dasc/){:target="_blank"} de GitHub
