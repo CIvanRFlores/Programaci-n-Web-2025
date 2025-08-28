@@ -10,7 +10,7 @@
 
 * [02: Divs enlaces](/02_divs_enlaces/index.html)
 
-* Tema 2
+* Tema N
 
 ### Ejercicios
 
@@ -25,4 +25,4 @@
 |------------------------------|:-:|:-:|:--------------:|
 |Christian Ivan Rivera Flores|IDS|5to|Programacion Web|
 
-### [Pagina principal](https://www.uabcs.mx/dasc/) de GitHub
+### [Pagina principal](https://civanrflores.github.io/Programacion-Web-2025/) de GitHub
