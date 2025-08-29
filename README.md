@@ -6,11 +6,11 @@
 
 ### Clases
 
-* [01: Formato texto](/01_formato_texto/index.html)
+* [01: Formato texto](/Clases/01_formato_texto/index.html)
 
-* [02: Divs enlaces](/02_divs_enlaces/index.html)
+* [02: Divs enlaces](/Clases/02_divs_enlaces/index.html)
 
-* [03: Listas y Multimedia](/03_listas_y_multimedia/index.html)
+* [03: Listas y Multimedia](/Clases/03_listas_y_multimedia/index.html)
 
 * Tema N
 
