@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>03: Elementos y Multimedia</title>
+</head>
+<body>
+    <div>
+
+        <div>
+            <h2>Lista no ordenada</h2>      
+            <ul>    <!--UL para realizar listas no ordenadas-->
+                <li>Elemento no ordenado</li>   <!--LI para ingresar un elemento al alista-->
+                <li>Elemento no ordenado</li>
+                <li>Elemento no ordenado</li>
+                <li>Elemento no ordenado</li>
+                <li>Elemento no ordenado</li>
+            </ul>
+        </div>
+
+        <div>
+            <h2>Lista ordenada</h2>
+            <ol>    <!--OL para realizar listas ordenadas-->
+                <li>Elemento ordenado</li>      <!--LI para ingresar un elemento a la lista-->
+                <li>Elemento ordenado</li>
+                <li>Elemento ordenado</li>
+                <li>Elemento ordenado</li>
+                <li>Elemento ordenado</li>
+            </ol>
+        </div>
+
+        <div>
+            <h2>Lista terminos y descripciones</h2>
+            <dl>    <!--DL para realizar listas con terminos y sus descripciones-->
+                <dt>Termino 1</dt>      <!--DT para ingresar un termino a la lista-->
+                <dd>Descricpion 1</dd>  <!--DD para ingresar una descripcion al termino-->
+                <dt>Termino 2</dt>
+                <dd>Descricpion 2</dd>
+                <dt>Termino 3</dt>
+                <dd>Descricpion 3</dd>
+                <dt>Termino 4</dt>
+                <dd>Descricpion 4</dd>
+                <dt>Termino 5</dt>
+                <dd>Descricpion 5</dd>
+            </dl>
+        </div>
+
+        <div>
+            <h2>Imagen insertada</h2>
+            <!--IMG para insertar imagen ya sea del dispositivo o internet-->
+            <!--SRC para ingresar le direccion origen de la imagen-->
+            <!--TITLE para poner un texto alternativo al pasar el cursor sobre la imagen-->
+            <!--WIDTH para modificar el tamaño de la imagen-->
+            <figure>    <!--FIGURE para agrupar varias imagenes como si fuera un contenedor-->
+                <figcaption>Una imagen durisima de patricio estrella</figcaption>   <!--FIGCAPTION para poner un texto alternativo a la imagen-->
+                <img title="Patricio :D" width="175" alt="Patricio :D" src="https://static.wikitide.net/loathsomecharacterswiki/thumb/f/f6/C--Users-cleme-Downloads-527-5274029_patrick-star-clipart-patrick-star-drooling-png-download.png/300px-C--Users-cleme-Downloads-527-5274029_patrick-star-clipart-patrick-star-drooling-png-download.png">
+            </figure>
+        </div>
+
+        <div>
+            <h3>Contenido multimedia</h3>
+            <div>
+                <audio controls>    <!--AUDIO para agregar audios ya sean del dispositivo o una direccion externa-->
+                                    <!--CONTROLS para agregar manejo de reproduccion sobre el audio-->
+                    <source src="audio/Demo_Trailer.mp3" type="audio/mp3">  <!--SOURCE para manejar los atributos del audio-->
+                    Tu navegador no soporta el elemento <code>audio</code>
+                </audio>
+            </div>
+            
+            <div>
+                <video width="300" controls muted poster="img/ExImg.png">     <!--VIDEO para agregar videos ya sean del dispositivo o una direccion externa-->
+                                                                                <!--POSTER para agregar portada al video antes de reproducir-->
+                    <source src="video/ExVid.mp4" type="video/mp4">     <!--SOURCE para manejar atributos del video-->
+                                                                        <!--SRC para manejar direccion del video-->
+                                                                        <!--TYPE para manejar el tipo de video-->
+                    <track kind="subtitles" srclang="en" label="en"></track>    <!--TRACK para agregar subtitulos-->
+                                                                                <!--KIND para agregar tipo de track-->
+                                                                                <!--LABEL para especificar idioma de subtitulos-->
+                </video>
+            </div>
+        </div>
+        
+        <div>
+            <h2>Marco embebido</h2>
+            <!--IFRAME para agregar directamente contenido de una pagina (una pagina dentro de la pagina)-->
+            <!--Por ejemplo un video de YouTube-->
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VPFxZw5qUwE?si=fityHDzZOTxH9j8K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        
+        <div>
+            <h2>Tablas</h2>
+            <table cellpading="5" border="1" width="80%">   <!--TABLE para agregar tablas-->
+                <caption>Ejemplo de tabla</caption>
+                <thead>
+                    <tr>
+                        <th colspan="3">Encabezado</th>
+                    </tr>
+                    <tr>
+                        <th colspan="2">Encabezado columna</th>
+                        <th rowspan="2">Encabezado fila</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

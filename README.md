@@ -10,6 +10,8 @@
 
 * [02: Divs enlaces](/02_divs_enlaces/index.html)
 
+* [03: Listas y Multimedia](/03_listas_y_multimedia/index.html)
+
 * Tema N
 
 ### Ejercicios
