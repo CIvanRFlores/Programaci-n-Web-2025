@@ -17,8 +17,10 @@
 ### Ejercicios
 
 1. [Pagina web con elementos basicos](/Ejercicio_01/index.html)
-    * Creacion de una pagina HTML sobre un tema de seleccion empleando elementos basicos
-2. Nombre de ejercicio
+    * Creacion de una pagina HTML sobre un tema de seleccion empleando elementos basicos.
+2. [Lista, multimedia y tablas](/Ejercicio_02/index.html)
+    * Modificar pagina agregando elementos como listas, multimedia y tablas.
+3. Nombre de ejercicio
     * Descripcion de ejercicio
 
 ### Datos del propietario
