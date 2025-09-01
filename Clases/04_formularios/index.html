@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="eS">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <form action="gracias.html" method="get">
+        <fieldset>
+            <legend>Basic Information</legend>
+            <label for="completename">Complete Name     </label>
+            <input type="text" id="completename" name="nombre" value="Ivan" placeholder="Type your name..." required>
+            <br>
+            <label for="completepassword">Password    </label>
+            <input type="password" id="completepassword" name="password" placeholder="Type your password..." required>
+            <br>
+            <label for="completeemail">Email     </label>
+            <input type="email" id="completeemail" name="email" placeholder="Type your email..." required>
+            <br>
+            <label for="completeage">Age     </label>
+            <input type="number" id="completeage" name="age" placeholder="Type your age..." required>
+            <br>    
+        </fieldset>
+
+        <fieldset>
+            <textarea cols="40" rows="10" placeholder="Insert Description..."></textarea>
+            <br>
+            <select name="Country">
+                <option value="mexico">Mexico</option>
+                <option value="spain">Spain</option>
+                <option value="usa">United States</option>
+                <option value="chile">Chile</option>
+            </select>></select>
+            <br>            
+
+            <input list="languages" name="Language">
+
+            <datalist id="languages">
+                <option value="JavaScript"></option>
+                <option value="Python"></option>
+                <option value="C#"></option>
+                <option value="C++"></option>
+            </datalist>
+        </fieldset>
+
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html>
