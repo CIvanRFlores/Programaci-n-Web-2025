@@ -24,7 +24,9 @@
     * Creacion de una pagina HTML sobre un tema de seleccion empleando elementos basicos.
 2. [Lista, multimedia y tablas](/Ejercicio_02/index.html)
     * Modificar pagina agregando elementos como listas, multimedia y tablas.
-3. Nombre de ejercicio
+3. [Formularios y metadatos](/Ejercicio_03/index.html)
+    * Modificar pagina agregando elementos como formularios y metadatos.
+4. Nombre de ejercicio
     * Descripcion de ejercicio
 
 ### Datos del propietario
