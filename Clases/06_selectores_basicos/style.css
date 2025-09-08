@@ -1,0 +1,29 @@
+*{                        /*(*) para modificar con CSS a todos los elementos de forma universal*/
+    background-color: darkred;
+}
+p{                        /*P para modificar elementos de tipo parrafo*/
+    color: blue;        /*Los colores pueden manejar tanto RGB como Hexadecimal, ademas de las etiquedas que ya proveee CSS*/
+    font-size: 20px;
+}
+h1{                       /*H# para modificar elementos de tipo titulos - subtitulos*/
+    color: red;
+    text-align: center;
+    background-color: black;
+}
+.green-text{              /*.[nombre] para definir una tipo variable que se puede utilizar en los elementos con la funcion CLASS*/
+    color: green;
+}
+.pink-text{
+    color: pink;
+}
+#special{                 /*#[nombre] para definir una tipo variable que se puede utilizar en los elementos con la funcion ID*/
+    color: yellow;
+    text-align: center;
+    font-size: xx-large;
+}
+
+/*Para utilizar modificadores se debe manejar un orden:
+1-. Universales (*)
+2-. Body (<body>)
+3-. Tipos
+4-. Clases (CLASS)*/
