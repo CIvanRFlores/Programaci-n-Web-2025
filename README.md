@@ -16,17 +16,27 @@
 
 * [05: Semantica](/Clases/05_semantica/index.html)
 
+* [06: Selectores basicos](/Clases/06_selectores_basicos/index.html)
+
 * Tema N
 
 ### Ejercicios
 
-1. [Pagina web con elementos basicos](/Ejercicio_01/index.html)
+## HTML
+
+1. [Pagina web con elementos basicos](/Html/Ejercicio_01/index.html)
     * Creacion de una pagina HTML sobre un tema de seleccion empleando elementos basicos.
-2. [Lista, multimedia y tablas](/Ejercicio_02/index.html)
+2. [Lista, multimedia y tablas](/Html/Ejercicio_02/index.html)
     * Modificar pagina agregando elementos como listas, multimedia y tablas.
-3. [Formularios y metadatos](/Ejercicio_03/index.html)
+3. [Formularios y metadatos](/Html/Ejercicio_03/index.html)
     * Modificar pagina agregando elementos como formularios y metadatos.
-4. Nombre de ejercicio
+
+## CSS
+
+1. [Formato de texto, fuentes, fondos y border](/Ejercicio_01/index.html)
+    * Realizar pagina html empleando elementos decorativos de css.
+
+2. Nombre de ejercicio
     * Descripcion de ejercicio
 
 ### Datos del propietario

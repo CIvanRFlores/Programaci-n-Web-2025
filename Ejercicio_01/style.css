@@ -1,0 +1,57 @@
+*{
+    color: #F6E8EA;
+    background-color: #22181C;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: #84DCCF;
+    text-align: center;
+    font-size: 44px;
+    border-style: groove;
+    width: 70%;
+    margin: auto;
+}
+
+h2{
+    color: #84DCCF;
+    text-align: center;
+    font-size: 30px;
+}
+
+h4{
+    color: #F6E8EA;
+    text-align: center;
+    font-size: 18px;
+    width: 70%;
+    margin: auto;
+}
+
+i{
+    color: #84DCCF;
+    text-align: center;
+}
+
+p{
+    color: #F6E8EA;
+    font-size: 20px;
+}
+
+li{
+    font-size: 18px;
+}
+
+.link{
+    text-align: left;
+    font-size: 18px;
+}
+
+.texto-justificado{
+    width: 55%;
+    text-align: justify;
+    margin: auto;
+}
+
+.centrado{
+    text-align: center;
+}
